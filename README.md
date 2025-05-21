@@ -38,6 +38,17 @@ This repository includes both **human-written** and **LLM-generated** datasets:
 
 ---
 
+## 🧠 Model
+
+The model used for generating LLM responses in this project was **Meta’s LLaMA 3.1 8B Instruct**.  
+It was chosen for its strong instruction-following capabilities and coherence in multi-turn generation.
+
+Two prompting styles were explored:
+- **Default prompting**: to simulate baseline LLM behavior
+- **Expressive prompting**: to encourage varied personality and stylistic traits in responses
+
+---
+
 ## 📓 Notebooks
 
 | File                          | Description |
